@@ -47,7 +47,18 @@ h6 {
   font-weight: 700;
   letter-spacing: 0.1rem;
 }
-
+.entry{
+   position: relative;
+  overflow: hidden;
+  padding-top: 1rem;
+  padding-bottom: 7rem;
+  background: linear-gradient(0deg, #ff6a00 0%, #ee0979 100%);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: scroll;
+  background-size: cover;
+  color: white!important;
+}
 header.masthead {
   position: relative;
   overflow: hidden;
